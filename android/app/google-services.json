@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439856367168",
+    "firebase_url": "https://meme-song-beta.firebaseio.com",
+    "project_id": "meme-song-beta",
+    "storage_bucket": "meme-song-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439856367168:android:49a2791daceffa353e41a5",
+        "android_client_info": {
+          "package_name": "com.deneme.flutteray"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439856367168-v2ss2bbe91nmb9snun0740ost55m9hjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHyen2fNwArZ8QYxH_xXwxI4oz6yOm74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439856367168-v2ss2bbe91nmb9snun0740ost55m9hjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
